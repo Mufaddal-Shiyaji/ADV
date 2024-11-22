@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4CAF50"  # Green color for primary highlights
+backgroundColor = "#F9F9F9"  # Light gray for background
+secondaryBackgroundColor = "#FFFFFF"  # White for sidebar and secondary background
+textColor = "#000000"  # Black text for better readability
+font = "sans serif"  # Default font for a clean look
